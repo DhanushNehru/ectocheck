@@ -1,0 +1,6 @@
+2026-10-30 02:00:01 backup started: /opt/stacks -> /mnt/usb/backups
+2026-10-30 02:04:37 snapshot written (4.1 GB, zstd)
+2026-10-30 02:04:39 verify ok
+2026-10-31 02:00:01 backup started: /opt/stacks -> /mnt/usb/backups
+2026-10-31 02:03:55 snapshot written (4.1 GB, zstd)
+2026-10-31 02:03:58 verify ok
