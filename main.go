@@ -25,7 +25,7 @@ import (
 func main() {
 	var (
 		srcFlags multiFlag
-		model    = flag.String("model", "qwen2.5:0.5b", "Ollama model used to judge claims")
+		model    = flag.String("model", "qwen2.5:1.5b", "Ollama model used to judge claims")
 		host     = flag.String("ollama", "http://127.0.0.1:11434", "Ollama base URL")
 		topK     = flag.Int("top-k", 3, "candidate evidence chunks retrieved per claim")
 		format   = flag.String("format", "text", "report format: text or json")
